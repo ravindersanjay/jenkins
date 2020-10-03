@@ -14,5 +14,6 @@ public class First {
 		ExtentListeners.testReport.get().info("this is first test case message3");
 		ExtentListeners.testReport.get().info("this is first test case message4");
 		ExtentListeners.testReport.get().info("this is first test case message5");
+		ExtentListeners.testReport.get().info("this is first test case message6");
 	}
 }
